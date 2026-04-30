@@ -48,8 +48,8 @@ stroke-prediction-ml/
 **Work in Progress** — Currently at EDA and Data Cleaning stage
 
 ## Author
-**Ibuchukwu Ezeah** | Deep Learning Engineer
-[GitHub](https://github.com/CodeWithSophia)
-[LinkedIn](https:www.linkedin.com/in/ibuchukwu-ezeah
+**Ibuchukwu Ezeah** | Deep Learning Engineer| 
+[GitHub] (https://github.com/CodeWithSophia) | 
+[LinkedIn] (https:www.linkedin.com/in/ibuchukwu-ezeah
 
 

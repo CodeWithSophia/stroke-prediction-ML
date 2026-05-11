@@ -59,7 +59,7 @@ Top predictors identified by the model:
 
 ## Live Demo
 
-**[Try the Stroke Risk Prediction App](https://ibuchukwu-stroke-prediction.streamlit.app/))**
+**[Try the Stroke Risk Prediction App](https://ibuchukwu-stroke-prediction.streamlit.app/)**
 
 ## Tech Stack
 - Python
